@@ -7,7 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9bd65c-0336-420c-8fd9-d25ad7dd9c99" name="Default Changelist" comment="comments">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Introduction_jar/Introduction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduction/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduction/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduction/Conflicts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduction/Conflicts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduction/ImportExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduction/ImportExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduction/InputImports.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduction/InputImports.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduction/com/company/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduction/com/company/Zoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduction/packagea/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduction/packagea/ClassA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Introduction/packageb/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Introduction/packageb/ClassB.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packageb/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packageb/ClassB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,18 +118,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Introduction.iml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\m_hus\IdeaProjects\Introduction\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Animal">
+  <component name="RunManager" selected="Application.ClassB">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animal" />
       <module name="Introduction" />
@@ -139,6 +154,8 @@
       </method>
     </configuration>
     <configuration name="Zoo" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/openjdk-11+28_windows-x64_bin/jdk-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.Zoo" />
       <module name="Introduction" />
       <option name="PROGRAM_PARAMETERS" value="Bronz Zoo" />
@@ -172,11 +189,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Animal" />
         <item itemvalue="Application.ClassB" />
         <item itemvalue="Application.ImportExample" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="JAR Application.Introduction.jar" />
+        <item itemvalue="Application.Animal" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +208,10 @@
       <workItem from="1610525357252" duration="207000" />
       <workItem from="1610525572150" duration="462000" />
       <workItem from="1610526717238" duration="373000" />
+      <workItem from="1622793317895" duration="883000" />
+      <workItem from="1622794241173" duration="3105000" />
+      <workItem from="1623055819350" duration="599000" />
+      <workItem from="1623136191997" duration="2484000" />
     </task>
     <task id="LOCAL-00001" summary="comments">
       <created>1610526837169</created>
@@ -215,6 +236,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comments" />

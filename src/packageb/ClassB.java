@@ -1,7 +1,7 @@
 package packageb;
 
 import packagea.ClassA;
-//Class B
+//Class B updated
 public class ClassB {
     public static void main(String[] args) {
         ClassA a;
